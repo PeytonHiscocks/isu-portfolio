@@ -1,4 +1,5 @@
 # Robots.txt file for student portfolio
 
 User-agent: *
+  Sitemap: http://www.peytonhiscocks.github.io/isu-porfolio/sitemap.xml
 Disallow: /
