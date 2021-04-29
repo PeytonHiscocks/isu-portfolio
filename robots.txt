@@ -1,5 +1,5 @@
 # Robots.txt file for http://www.peytonhiscocks.github.io/isu-portfolio
 
 User-agent: *
-  Sitemap: http://www.peytonhiscocks.github.io/isu-portfolio/sitemap.xml
+  Sitemap: http://peytonhiscocks.github.io/isu-portfolio/sitemap.xml
 Disallow: /
